@@ -51,12 +51,11 @@ The dashboard is organized to support an intuitive narrative:
 
 ### 🔹 Interactive Controls  
 Filters available across all visuals:
-- Price (range slider)  
-- Mileage (range slider, in thousands)  
-- Year / Registration Year  
-- Fuel Type  
-- Transmission Type  
-- Brand  
+
+- Year / Registration Year
+- Mileage (range slider, in thousands)    
+
+Additional filters such as mileage, brand, fuel type, etc. can be added depending on user needs.
 
 ---
 
