@@ -52,7 +52,7 @@ The dashboard is organized to support an intuitive narrative:
 ### 🔹 Interactive Controls  
 Filters available across all visuals:
 
-- Year / Registration Year
+- Year
 - Mileage (range slider, in thousands)    
 
 Additional filters such as mileage, brand, fuel type, etc. can be added depending on user needs.
