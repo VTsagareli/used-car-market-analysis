@@ -3,7 +3,7 @@
 
 An interactive Tableau dashboard analyzing over 250,000 used car listings scraped from AutoScout24, one of Germany’s largest online car marketplaces. This project explores key market trends including pricing, mileage, fuel types, and drivetrain composition — helping users understand how these factors interact and evolve over time.
 
-📊 **[View the Live Dashboard on Tableau Public »]([https://public.tableau.com/your-link](https://public.tableau.com/shared/RSSX3S2P5?:display_count=n&:origin=viz_share_link))**  
+📊 **[View the Live Dashboard on Tableau Public »](https://public.tableau.com/shared/RSSX3S2P5?:display_count=n&:origin=viz_share_link)**  
 📁 **[View the Dataset on Kaggle »](https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023)**
 
 ---
